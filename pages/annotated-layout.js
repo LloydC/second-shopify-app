@@ -1,3 +1,5 @@
+// The annotated layout is generally used on a settings page to let merchants easily set up, enable, or disable functions of an app. 
+// It’s set up in sections that include titles and descriptions to help merchants understand the groupings of content.
 import {
     Button,
     Card,
