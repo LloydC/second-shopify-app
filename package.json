@@ -16,7 +16,7 @@
     "@shopify/app-bridge-react": "^3.0.0",
     "@shopify/koa-shopify-auth": "^5.0.0",
     "@shopify/koa-shopify-graphql-proxy": "^7.0.0",
-    "@shopify/polaris": "^10.0.0",
+    "@shopify/polaris": "^12.0.0",
     "@zeit/next-css": "^1.0.1",
     "apollo-boost": "^0.4.7",
     "dotenv": "^16.0.0",
